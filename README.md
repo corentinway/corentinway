@@ -32,7 +32,24 @@ Since 2022, I teach Green-IT best practices to DevOps teams.
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
-<img align="left" alt="java" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/-JAVA-ba181b?style=for-the-badge" />
+<img align="left" alt="rust" src="https://img.shields.io/badge/-rust-000000?style=for-the-badge&logo=rust" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="greenit" src="https://img.shields.io/badge/-greenit-199900?style=for-the-badge&logo=Leaflet" />
+<br>
+And much more :
+* SQL
+* Agility
+* Tests
+* Reliability
+* ...
+
+## What to find here 🧐
+
+* lots of sandboxes and playground to lear a technology
+* Some open sources projects pinned bellow.
+
 <br>
 <br>
 
